@@ -10,7 +10,7 @@ The meeting format is as follows:
    
 The location of meetings will be mainly online, with an option to access the zoom meeting in a physical shared space via our conference room setup in [Harvill 320C](https://interactivefloorplans.arizona.edu/76/0320C) or remotely on [zoom](https://arizona.zoom.us/my/hecdaniel).
 
-When participating in a research project presentation make sure to review the student's slides before the presentation itself. The lab member presenting should aim to share the finished slides at least 2 business days before the actual presentation.
+When participating in a research project presentation make sure to review the lab member's slides before the presentation itself. The lab member presenting should aim to share the finished slides at least 2 business days before the actual presentation.
 
 When discussing scientific papers, the only expectation is that participants read the paper scheduled for that week ahead of time.
 
