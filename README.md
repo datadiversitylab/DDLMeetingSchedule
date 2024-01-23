@@ -16,7 +16,7 @@ When discussing scientific papers, the only expectation is that participants rea
 
 The full presentation schedule for the semester is here:
 
-[Spring 2024 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Fall-2023-Reading-Schedule)
+[Spring 2024 Reading Schedule](https://github.com/datadiversitylab/DDL-Lab-Meeting-Schedule/wiki)
 
 ## Previous Semesters
 
