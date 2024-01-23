@@ -8,7 +8,7 @@ The meeting format is as follows:
 2. 25-35 minutes of a research project presentation led by a scheduled lab member,
 3. The rest of the meeting will consist of topic discussion and QA
    
-The location of meetings will be online, with an option to access the zoom meeting via our conference room setup in [Harvill 320C](https://interactivefloorplans.arizona.edu/76/0320C) or remotely on [zoom](https://arizona.zoom.us/my/hecdaniel).
+The location of meetings will be mainly online, with an option to access the zoom meeting in a physical shared space via our conference room setup in [Harvill 320C](https://interactivefloorplans.arizona.edu/76/0320C) or remotely on [zoom](https://arizona.zoom.us/my/hecdaniel).
 
 When participating in a research project presentation make sure to review the student's slides before the presentation itself. The lab member presenting should aim to share the finished slides at least 2 business days before the actual presentation.
 
