@@ -20,5 +20,5 @@ The full presentation schedule for the semester is here:
 
 ## Previous Semesters
 
-* [Fall 2023]()
+* [Fall 2023](https://github.com/datadiversitylab/DDL-Lab-Meeting-Schedule/wiki/Fall_2023)
 
