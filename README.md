@@ -16,7 +16,7 @@ When discussing scientific papers, the only expectation is that participants rea
 
 The full presentation schedule for the semester is here:
 
-[Spring 2024 Presentation Schedule](https://github.com/datadiversitylab/DDL-Lab-Meeting-Schedule/wiki](https://github.com/datadiversitylab/DDL-Lab-Meeting-Schedule/wiki/Spring_2024)
+[Spring 2024 Presentation Schedule](https://github.com/datadiversitylab/DDL-Lab-Meeting-Schedule/wiki/Spring_2024)
 
 ## Previous Semesters
 
