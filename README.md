@@ -6,7 +6,7 @@ The lab meets once every 2 weeks for a 1 hour session. Meetings will consist of 
 The meeting format is as follows: 
 1. Initial 5-10 min of set up and announcements
 2. 25-35 minutes of a research project presentation led by a scheduled lab member,
-3. The rest of the meeting will consist of topic discussion and QA
+3. The rest of the meeting will consist of topic discussion and Q&A
    
 The location of meetings will be mainly online, with an option to access the zoom meeting in a physical shared space via our conference room setup in [Harvill 320C](https://interactivefloorplans.arizona.edu/76/0320C) or remotely on [zoom](https://arizona.zoom.us/my/hecdaniel).
 
