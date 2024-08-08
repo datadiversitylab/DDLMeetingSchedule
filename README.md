@@ -9,6 +9,7 @@ The full presentation schedule for the semester is under [Wiki](https://github.c
 
 Below, we include details on the expected structure in each of these events.
 
+```
 Lab meetings (weekly)
 –	Introduction of new members
 –	Funding applications
@@ -18,12 +19,16 @@ Lab meetings (weekly)
   o	Current research
   o	Relevant paper
   o	Tutorial
+```
 
+```
 Journal Club (once every 2 weeks)
 –	Selected papers
 –	Defined during the first week of the semester
 –	Led by one lab member
 –	PIs and other guests are invited
+```
+
 
 If you are a member of the Data Diversity lab, you are expected to attend to each of these events. We will define the schedule and topics to be discussed in each meeting during the first week of the semester. This initial schedule is subject to change. Meetings will be held on Zoom (maybe Nexcloud talk) and in-person (Harvill 320C). 
 
