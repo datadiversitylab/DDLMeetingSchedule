@@ -3,13 +3,30 @@
 Data Diversity Lab's schedule of presentations, topics, and discussions.
 
 ## What?
-In a typical academic semester (Spring, Fall), the lab meets once every 2 weeks for a 1 hour session. Meetings will consist of either: A presentation focused on the lab member's semester project/research, a presentation based on an interest of the lab member/technical showing (these will happen more informally in between official lab meetings) or a discussion of a scientific paper. The full presentation schedule for the semester is under [Wiki](https://github.com/datadiversitylab/DDL-Lab-Meeting-Schedule/wiki).
+We host two types of events on a weekly or bi-weekly basis. Lab meetings are mostly focused on discussions for topics of internal relevance within the lab. Journal clubs, with invited PIs or students, are used for wider discussions on particular papers or new approaches either in biology or data science.
 
-The meeting format is as follows: 
+The full presentation schedule for the semester is under [Wiki](https://github.com/datadiversitylab/DDL-Lab-Meeting-Schedule/wiki).
 
-1. Initial 5-10 min of set up and announcements
-2. 25-35 minutes of a research project presentation led by a scheduled lab member,
-3. The rest of the meeting will consist of topic discussion and Q&A
+Below, we include details on the expected structure in each of these events.
+
+Lab meetings (weekly)
+–	Introduction of new members
+–	Funding applications
+–	Active discussion
+–	Job talks
+–	Member-led component
+  o	Current research
+  o	Relevant paper
+  o	Tutorial
+
+Journal Club (once every 2 weeks)
+–	Selected papers
+–	Defined during the first week of the semester
+–	Led by one lab member
+–	PIs and other guests are invited
+
+If you are a member of the Data Diversity lab, you are expected to attend to each of these events. We will define the schedule and topics to be discussed in each meeting during the first week of the semester. This initial schedule is subject to change. Meetings will be held on Zoom (maybe Nexcloud talk) and in-person (Harvill 320C). 
+
 
 Meeting structure can change depending on the situation.
 
